@@ -1,0 +1,91 @@
+.body{
+    font-family: sans-serif;
+    text-align: center;
+    background-image: url(/img/city.jpg);
+    
+}
+
+
+.login{
+    margin-top: 10cm;
+    text-align: center;
+    
+}
+.username{
+    border: 5px solid black;
+    height: 50px;
+    width: 300px;
+    font-size: xxx-large;
+    border-radius: 15px;
+    transition: transform .2s;
+    font-family: Montserrat;
+    background-color:rgba(0, 0, 0, 0.4);
+    color: white;
+
+}
+.username:hover{
+    transform: scale(1.02);
+}
+
+.password{
+    border: 5px solid black;
+    height: 50px;
+    width: 300px;
+    font-size: xxx-large;
+    border-radius: 15px;
+    transition: transform .2s;
+    font-family: Montserrat;
+    background-color:rgba(0, 0, 0, 0.4);
+    color: white;
+}
+.password:hover{
+    transform: scale(1.02);
+    
+}
+.loginbtn{
+    border: 5px solid black;
+    height: 50px;
+    width: 100px;
+    font-size: x-large;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform .2s;
+  
+    
+}
+.loginbtn:hover{
+    transform: scale(1.15);
+    background-color:rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.clearbtn{
+    border: 5px solid black;
+    height: 50px;
+    width: 100px;
+    font-size: x-large;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+.clearbtn:hover{
+    transform: scale(1.15);
+    background-color:rgba(0, 0, 0, 0.4);
+    color: white;
+}
+.remem{
+    color: black;
+    
+}
+.rem2{
+    cursor: pointer;
+}
+.remem:hover{
+    color: white;
+}
+.anon2{
+    cursor: pointer;
+}
+.anony:hover{
+    color: white;
+}
